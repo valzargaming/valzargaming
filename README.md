@@ -1,9 +1,1 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on **Some game projects**.
-- 🌱 I’m currently learning **ReactPHP**.
-- 💬 Ask me about **my projects**.
-- 📫 How to reach me: https://www.valzargaming.com
-- 😄 Pronouns: He/They
-
-![Metrics](https://github.com/valzargaming/valzargaming/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/valzargaming?template=classic&config.timezone=America%2FNew_York)
