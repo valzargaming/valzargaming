@@ -2,11 +2,6 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
 
 ## Repositories Overview
 
-**Civ13/Civ13**
-   - **Description:** A total conversion mod for Space Station 13, designed to create a unique gameplay experience themed around Civilization 13.
-   - **Key Features:** Custom game mechanics, new roles, and unique scenarios.
-   - **Get Started:** The repository includes detailed setup instructions to help you get started.
-
 **discord-php/DiscordPHP**
    - **Description:** DiscordPHP is a powerful PHP library designed to interact with the Discord API. It allows developers to build robust and scalable bots with extensive functionality.
    - **Key Features:** Real-time event handling, support for voice communication, and a comprehensive set of API endpoints to integrate with Discord services.
@@ -16,6 +11,11 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
    - **Description:** TwitchPHP is a PHP library built to work seamlessly with the Twitch API, providing a structured way to interact with Twitch's streaming and user services.
    - **Key Features:** Designed as a singleton for easier integration with DiscordPHP or standalone use, with comprehensive event handling and data retrieval capabilities.
    - **Get Started:** Visit the repository's `README.md` for setup details, including configuration options and example use cases to get started with Twitch-based projects.
+
+**Civ13/Civ13**
+   - **Description:** A total conversion mod for Space Station 13, designed to create a unique gameplay experience themed around Civilization 13.
+   - **Key Features:** Custom game mechanics, new roles, and unique scenarios.
+   - **Get Started:** The repository includes detailed setup instructions to help you get started.
 
 **Valgorithms/Civilizationbot**
    - **Description:** Civilizationbot is a project focused on porting Piratebot#8117 from Discord.py to DiscordPHP. The bot is designed for use with the Civilization 13 Discord server.
