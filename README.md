@@ -58,4 +58,3 @@ For questions or support, feel free to join our Discord servers linked in the pr
 All projects are released under the MIT License unless otherwise specified.
 
 ![Metrics](/github-metrics.svg)
-![Metrics](https://metrics.lecoq.io/valzargaming?template=classic&config.timezone=America%2FNew_York)
