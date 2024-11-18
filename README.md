@@ -7,7 +7,7 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
    - **Key Features:** Real-time event handling, support for voice communication, and a comprehensive set of API endpoints to integrate with Discord services.
    - **Get Started:** Refer to the `README.md` for installation instructions and code examples that demonstrate how to create your first bot.
 
-**Valgorithms/TwitchPHP**
+**Valgorithms/TwitchPHP** (Under Construction)
    - **Description:** TwitchPHP is a PHP library built to work seamlessly with the Twitch API, providing a structured way to interact with Twitch's streaming and user services.
    - **Key Features:** Designed as a singleton for easier integration with DiscordPHP or standalone use, with comprehensive event handling and data retrieval capabilities.
    - **Get Started:** Visit the repository's `README.md` for setup details, including configuration options and example use cases to get started with Twitch-based projects.
