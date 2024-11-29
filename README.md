@@ -15,7 +15,7 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
 **Civ13/Civ13**
    - **Description:** A total conversion mod for Space Station 13, designed to create a unique gameplay experience themed around Civilization 13.
    - **Key Features:** Custom game mechanics, new roles, and unique scenarios.
-   - **Get Started:** The repository includes detailed setup instructions to help you get started.
+   - **Get Started:** The repository includes detailed setup instructions to help you get started, however exact implementations can vary between versions of Byond and bots being used. Support is available on Discord.
 
 **Valgorithms/Civilizationbot**
    - **Description:** Civilizationbot is a project focused on porting Piratebot#8117 from Discord.py to DiscordPHP. The bot is designed for use with the Civilization 13 Discord server.
