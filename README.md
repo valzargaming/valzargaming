@@ -2,7 +2,7 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
 
 ## Repositories Overview
 
-**discord-php/DiscordPHP**
+**Discord-PHP/DiscordPHP**
    - **Description:** DiscordPHP is a powerful PHP library designed to interact with the Discord API. It allows developers to build robust and scalable bots with extensive functionality.
    - **Key Features:** Real-time event handling, support for voice communication, and a comprehensive set of API endpoints to integrate with Discord services.
    - **Get Started:** Refer to the `README.md` for installation instructions and code examples that demonstrate how to create your first bot.
