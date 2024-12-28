@@ -19,7 +19,7 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
 
 **Valgorithms/Civilizationbot**
    - **Description:** Civilizationbot is a project focused on porting Piratebot#8117 from Discord.py to DiscordPHP. The bot is designed for use with the Civilization 13 Discord server.
-   - **Key Features:** Provides Discord bot functionality using DiscordPHP, with custom functions organized into different categories like 'ready', 'message', and 'misc' for extensibility.
+   - **Key Features:** Automates moderation and other administrative process for the Civ13 Discord and game servers. Serves as the primary testing platform for other DiscordPHP projects.
    - **Get Started:** The bot runs in CLI mode and integrates with DiscordPHP. Refer to the `README.md` for setup details, including PHP version requirements and configuration options.
 
 **Valgorithms/PZBot**
