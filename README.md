@@ -44,7 +44,7 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
    - **Footnote:** This project was never finished due to lack of information provided by the project's original lead designer.
 
 **Valgorithms/Palace-Revived (Tutelar)**
-   - **Description:** Palace-Revived, also known as Tutelar, is a Discord bot project written in PHP. It is designed to provide a range of server management and moderation tools using the DiscordPHP library. This bot will soon be deprecated in favor of ModuBot, another bot which is still in early development.
+   - **Description:** Palace-Revived, also known as Tutelar, is a Discord bot project written in PHP. It is designed to provide a range of server management and moderation tools using the DiscordPHP library. This bot will soon be deprecated in favor of ModuBot, which is still in early planning.
    - **Key Features:** Advanced event handling, customizable commands, and integration with various Discord APIs to manage servers efficiently.
    - **Get Started:** Review the setup instructions in the `README.md` for prerequisites, including PHP and Composer installations.
 
