@@ -23,7 +23,7 @@ Welcome to my profile! I maintain many repositories, some of which belong to tea
    - **Get Started:** The bot runs in CLI mode and integrates with DiscordPHP. Refer to the `README.md` for setup details, including PHP version requirements and configuration options.
 
 **Valgorithms/PZBot**
-   - **Description:** A Discord bot for Project Zomboid, built in ReactPHP, dedsigned to relay chat and update a channel name with the current player count.
+   - **Description:** A Discord bot for Project Zomboid, built in ReactPHP, purposed to relay chat to Discord and update a channel name with the current player count.
    - **Key Features:** Provides integration with Project Zomboid servers, offering chat commands and server management tools.
    - **Get Started:** Follow the installation guide in the `README.md` to set up the bot locally.
 
