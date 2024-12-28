@@ -1,4 +1,4 @@
-Welcome to my profile! I maintain many repositories, some of which belong to teams I own, such as Valgorithms and Civ13. Below you'll find an overview of some key projects, their purposes, and how to get started with them.
+I maintain many repositories, some of which belong to teams I own, such as Valgorithms and Civ13. Below you'll find an overview of some key projects, their purposes, and how to get started with them.
 
 ## Repositories Overview
 
