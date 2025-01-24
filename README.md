@@ -22,6 +22,11 @@ I maintain many repositories, some of which belong to teams I own, such as Valgo
    - **Key Features:** Automates moderation and other administrative process for the Civ13 Discord and game servers. Serves as the primary testing platform for other DiscordPHP projects.
    - **Get Started:** The bot runs in CLI mode and integrates with DiscordPHP. Refer to the `README.md` for setup details, including PHP version requirements and configuration options.
 
+**Valgorithms/Verifier-Server**
+   - **Description:** Valithor's official webserver for BYOND user verification.
+   - **Key Features:** Provides a stable and efficient platform for verifying BYOND users, leveraging modern PHP capabilities with PHP 7.4 or 8.0 support.
+   - **Get Started:** Install the server using Composer and configure your environment using the `.env` file. See the `README.md` for setup instructions and usage examples.
+
 **Valgorithms/PZBot**
    - **Description:** A Discord bot for Project Zomboid, built in ReactPHP, purposed to relay chat to Discord and update a channel name with the current player count.
    - **Key Features:** Provides integration with Project Zomboid servers, offering chat commands and server management tools.
