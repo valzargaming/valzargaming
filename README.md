@@ -1,4 +1,4 @@
-I maintain many repositories, some of which belong to teams I own, such as Valgorithms and Civ13. Below you'll find an overview of some key projects, their purposes, and how to get started with them.
+I maintain many repositories, some of which belong to teams I own or co-own, such as Valgorithms and Civ13. Below you'll find an overview of some key projects, their purposes, and how to get started with them.
 
 ## Repositories Overview
 
@@ -11,11 +11,6 @@ I maintain many repositories, some of which belong to teams I own, such as Valgo
    - **Description:** TwitchPHP is a PHP library built to work seamlessly with the Twitch API, providing a structured way to interact with Twitch's streaming and user services.
    - **Key Features:** Designed as a singleton for easier integration with DiscordPHP or standalone use, with comprehensive event handling and data retrieval capabilities.
    - **Get Started:** Visit the repository's `README.md` for setup details, including configuration options and example use cases to get started with Twitch-based projects.
-
-**Civ13/Civ13**
-   - **Description:** A total conversion mod for Space Station 13, designed to create a unique gameplay experience themed around Civilization 13.
-   - **Key Features:** Custom game mechanics, new roles, and unique scenarios.
-   - **Get Started:** The repository includes detailed setup instructions to help you get started, however exact implementations can vary between versions of Byond and bots being used. Support is available on Discord.
 
 **Valgorithms/Civilizationbot**
    - **Description:** Civilizationbot is a project focused on porting Piratebot#8117 from Discord.py to DiscordPHP. The bot is designed for use with the Civilization 13 Discord server.
