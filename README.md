@@ -1,4 +1,4 @@
-I maintain and contribute to various repositories, including projects under **Valgorithms** and **Civ13**, where I serve as an owner or co-owner.
+I maintain and contribute to various repositories, including projects under **DiscordPHP**, **Valgorithms**, and **Civ13**, where I serve as an owner or co-owner.
 
 ## Contributions
 I welcome contributions from the community! If you're interested in helping out:
